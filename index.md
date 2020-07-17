@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome Back
 
-You can use the [editor on GitHub](https://github.com/Random416/Page-14/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Random416/Page-14/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Manager job <a href="https://random416.github.io/Page-4/" target="_blank">Click me!</a>
+- Professional jobs <a href="https://random416.github.io/Page-5/" target="_blank">Click me!</a>
+- Technicians and associate professional jobs <a href="https://random416.github.io/Page-6/" target="_blank">Click me!</a>
+- Clerical support worker jobs <a href="https://random416.github.io/Page-7/" target="_blank">Click me!</a>
+- Service and sales worker jobs <a href="https://random416.github.io/Page-8/" target="_blank">Click me!</a>
+- Skilled agricultural, forestry and fishery worker jobs <a href="https://random416.github.io/Page-9/" target="_blank">Click me!</a>
+- Craft and related trades worker jobs <a href="https://random416.github.io/Page-10/" target="_blank">Click me!</a>
+- Plant and machine operators, and assembler jobs	- Plant and machine operators, and assemblers <a href="https://random416.github.io/Page-11/" target="_blank">Click me!</a>
+- Elementary occupation jobs <a href="https://random416.github.io/Page-12/" target="_blank">Click me!</a>
+- Armed forces occupation jobs <a href="https://random416.github.io/Page-13/" target="_blank">Click me!</a>
